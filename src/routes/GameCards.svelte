@@ -71,7 +71,7 @@
 		<div
 			class="absolute inset-0 flex [transform:rotateY(180deg)] items-center justify-center overflow-hidden bg-white [backface-visibility:hidden]"
 		>
-			<img src={`src/images/${theme}/${src}.svg`} alt={src} class="h-full w-full object-contain" />
+			<img src={`/images/${theme}/${src}.svg`} alt={src} class="h-full w-full object-contain" />
 		</div>
 	</div>
 </button>
