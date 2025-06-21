@@ -1,42 +1,44 @@
-<<<<<<< HEAD
-# Match-Game
-=======
-# sv
+# 🧠 Memory Match Game 🎮
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+A fun and interactive memory match card game built using **Svelte 5**. Flip cards, test your memory, and try to match all the pairs in the fewest moves possible.
 
-## Creating a project
+## 🚀 Live Demo
 
-If you're seeing this, you've probably already done this step. Congrats!
+👉 [Play the Game](
+https://mymatchgame.vercel.app/)  
 
-```bash
-# create a new project in the current directory
-npx sv create
+---
 
-# create a new project in my-app
-npx sv create my-app
-```
+## ✨ Features
 
-## Developing
+- 🔁 Flip and match identical cards
+- 🧩 Multiple themes for card designs
+- 🧠 Tracks the number of moves
+- 🎉 Sound effects for interactions and matches
+- 📱 Responsive design (playable on desktop and mobile)
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+---
 
-```bash
-npm run dev
+## 🛠️ Built With
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+- [Svelte 5](https://svelte.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- JavaScript ES6+
+- CSS Animations and Transitions
 
-## Building
+---
 
-To create a production version of your app:
+## 🧩 Game Instructions
 
-```bash
-npm run build
-```
+1. Click on any card to flip it.
+2. Flip a second card to try and match it with the first.
+3. If the cards match, they remain visible.
+4. If not, they flip back over.
+5. Match all pairs to win the game!
 
-You can preview the production build with `npm run preview`.
+---
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
->>>>>>> e60811c (Files Uploaded)
+
+
+
